@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+##  Приветствую!
 
-You can use the [editor on GitHub](https://github.com/pqunko/zaika.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Это тебе такой [мини-подарок](https://sun9-65.userapi.com/impg/mCYb2c3TyyxVUPPAFbskLGJPh37LXR083VUCLQ/fgAfrPffyhg.jpg?size=604x592&quality=96&sign=103f05a85b8e0d6d982bc8a61899d4ae&type=album) (Кстати сделал по фану)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Хочу сказать, что такое делаю впервые, поэтому сайт может выдать какую-нибудь ошибку)))
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Люблю тебя
+Ты лучшая, милая, красивая, невероятная, умная, заботливая девочка, я тебя просто обожаю
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +25,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Я надеюсь хоть чуточку тебя порадовал) Возможно я усовершенствую этот сайт и он станет ещё лучше)
 
-### Jekyll Themes
+### ily
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pqunko/zaika.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ради этого сайта я потратил более 2 часов, надеюсь результат превзойдёт мои ожидания, так как это решать тебе)
 
-### Support or Contact
+### Вот пикча с котиком)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Тыкни сюда](https://i.pinimg.com/736x/42/cb/fc/42cbfc4a8c44265084b289e36534b4df.jpg)
